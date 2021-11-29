@@ -20,6 +20,8 @@ const Sidebar = ({ toggle, isOpen }) => {
         <SidebarLink to="/">Pizzas</SidebarLink>
         <SidebarLink to="/">Desserts</SidebarLink>
         <SidebarLink to="/">Full menu</SidebarLink>
+        <SidebarLink to="/">Pastas</SidebarLink>
+        <SidebarLink to="/">Hambergers</SidebarLink>
       </SidebarMenu>
       <SideBtnWrap>
         <SidebarRoute to="/">Order Now</SidebarRoute>
