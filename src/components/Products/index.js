@@ -12,6 +12,7 @@ import {
 } from "./ProductsElements";
 const Products = ({ heading, data }) => {
   return (
+    //
     <ProductsContainer>
       <ProductHeading>{heading}</ProductHeading>
       <ProductWrapper>

@@ -3,7 +3,7 @@ import Hero from "./components/Hero";
 import Products from "./components/Products";
 import { GlobalStyle } from "./GlobalStyle";
 import { productData } from "./components/Products/data";
-
+//
 function App() {
   return (
     <Router>

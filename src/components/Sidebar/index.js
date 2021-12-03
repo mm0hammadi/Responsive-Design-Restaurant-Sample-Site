@@ -10,6 +10,7 @@ import {
   SidebarLink,
 } from "./SidebarElements";
 
+
 const Sidebar = ({ toggle, isOpen }) => {
   return (
     <SidebarContainer isOpen={isOpen} onClick={toggle}>
